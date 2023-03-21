@@ -32,5 +32,5 @@ $ yarn android
 - React Native
 
 <p align="center">
-  <img alt="projeto Habits" src="./print.gif" width="100%">
+  <img alt="projeto Habits" src="./print.gif" width="50%">
 </p>
